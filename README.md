@@ -36,7 +36,7 @@ Required libraries and packages can be find in the [requirement file]('requireme
 Using the 2-layer neural network with 24 node hidden layer, 5000 epochs and 0.5 learning rate, the final training MSE loss is 0.056 and the final validation MSE loss is 0.160.
 The predicted results are gievn below:
 
-<img src="assets/result.png" width="600" height="180" />
+<img src="assets/result.png" />
 
 ## Licensing, Authors, and Acknowledgements<a name="licensing"></a>
 
