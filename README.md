@@ -33,10 +33,10 @@ Required libraries and packages can be find in the [requirement file]('requireme
 
 ## Results<a name="results"></a>
 
-Using the 2-layer neural network with 25 node hidden layer, 5000 epochs and 0.8 learning rate, the final training loss is  ..
+Using the 2-layer neural network with 24 node hidden layer, 5000 epochs and 0.5 learning rate, the final training MSE loss is 0.056 and the final validation MSE loss is 0.160.
 The predicted results are gievn below:
 
-<img src="notebook_ims/pytorch_nn_result.png" width="600" height="180" />
+<img src="assets/result.png" width="600" height="180" />
 
 ## Licensing, Authors, and Acknowledgements<a name="licensing"></a>
 
