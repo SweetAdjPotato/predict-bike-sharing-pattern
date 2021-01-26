@@ -15,7 +15,7 @@ In this project, a simple two layer neural network model is built and used to pr
 
 ## Installation <a name="installation"></a>
 
-Required libraries and packages can be find in the [requirement file]('requirement.txt')
+Required libraries and packages can be find in the [requirement file]('requirement.txt').
 
 ## File Descriptions <a name="files"></a>
 
@@ -25,9 +25,9 @@ Required libraries and packages can be find in the [requirement file]('requireme
 **assets:** contains the images used in the notebooks
 
 ### Files:
-**dPredicting_bike_sharing_data.ipynb:** the main notebook contains all the codes
+**Predicting_bike_sharing_data.ipynb:** the main notebook contains all the codes
 
-**Predicting_bike_sharing_data.html:** html format of dog_app.ipynb
+**Predicting_bike_sharing_data.html:** html format of the main notebook
 
 **my_answers.py:** neural network class
 
