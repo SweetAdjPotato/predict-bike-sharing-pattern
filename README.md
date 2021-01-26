@@ -15,7 +15,7 @@ In this project, a simple two layer neural network model is built and used to pr
 
 ## Installation <a name="installation"></a>
 
-Required libraries and packages can be find in the [requirement file]('requirement.txt').
+Required libraries and packages can be find in <a href="/requirement.txt">requirement</a>.
 
 ## File Descriptions <a name="files"></a>
 
